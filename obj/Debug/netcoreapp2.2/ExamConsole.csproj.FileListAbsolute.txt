@@ -1,0 +1,11 @@
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\bin\Debug\netcoreapp2.2\ExamConsole.deps.json
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\bin\Debug\netcoreapp2.2\ExamConsole.runtimeconfig.json
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\bin\Debug\netcoreapp2.2\ExamConsole.runtimeconfig.dev.json
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\bin\Debug\netcoreapp2.2\ExamConsole.dll
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\obj\Debug\netcoreapp2.2\ExamConsole.csprojAssemblyReference.cache
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\obj\Debug\netcoreapp2.2\ExamConsole.csproj.CoreCompileInputs.cache
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\obj\Debug\netcoreapp2.2\ExamConsole.AssemblyInfoInputs.cache
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\obj\Debug\netcoreapp2.2\ExamConsole.AssemblyInfo.cs
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\bin\Debug\netcoreapp2.2\ExamConsole.pdb
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\obj\Debug\netcoreapp2.2\ExamConsole.dll
+C:\Users\gianluca\source\repos\ExamConsole\ExamConsole\obj\Debug\netcoreapp2.2\ExamConsole.pdb
